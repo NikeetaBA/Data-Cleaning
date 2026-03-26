@@ -1,0 +1,16 @@
+# ============================================================
+# Supply Chain Forecasting Project — Requirements
+# ============================================================
+# Install all dependencies with:
+#   pip install -r requirements.txt
+#
+# Phases covered:
+#   01 - Data Cleaning
+#   02 - EDA
+#   03 - Feature Engineering
+#   04 - Forecasting Models (ARIMA, Prophet, XGBoost)
+#   05 - Evaluation & Dashboard Export
+
+# ── Core Data ─────────────────────────────────────────────
+pandas==3.0.1
+numpy==2.4.2
